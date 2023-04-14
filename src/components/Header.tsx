@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="bg-black text-white text-center py-4 rounded">
+    <header className="bg-black text-white text-center py-4">
       <p>
         Made with ❤️ by{" "}
         <a
